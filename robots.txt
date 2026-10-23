@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ardaberkorak.github.io/mavi-firin/sitemap.xml
+Sitemap: https://sewalaksu.github.io/mavi-firin/sitemap.xml
